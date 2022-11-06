@@ -1,0 +1,20 @@
+html
+{
+    scroll-behavior: smooth;
+}
+body
+{
+    background-color: white;
+}
+h2{
+    font-size: 45px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#player1_name{
+    width: 400px;
+    height: 35px;
+}
+#player2_name{
+    width: 400px;
+    height: 35px;
+}

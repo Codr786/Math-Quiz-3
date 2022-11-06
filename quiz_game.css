@@ -1,0 +1,38 @@
+html
+{
+    scroll-behavior: smooth;
+}
+
+body
+{
+    background-color: hsl(208, 100%, 97%);
+    align-items: center;
+    
+}
+
+h1
+{
+    font-size: 60px;
+    color: black;
+
+}
+
+.login_div1 , .login_div2
+{
+        background: white;
+        padding: 30px;
+        float: none;
+        border-radius: 50px;
+ }
+
+#player1_name , #player2_name
+{
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.img
+{
+    size: 10px;
+    margin-top: -0;
+}
